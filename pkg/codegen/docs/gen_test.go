@@ -542,6 +542,7 @@ func TestGeneratePackage(t *testing.T) {
 				"_index.md",
 				"provider.md",
 				"component.md",
+				"dofoo.md",
 			},
 		},
 	}
